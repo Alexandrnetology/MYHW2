@@ -9,5 +9,10 @@ public class Main {
         // Рассчитываете количество бонусных миль, используя
         // значения заведённых переменных. Ответ сохраняете в
         // новую переменную и выводите на экран
+        int tiket = 13676;
+        int rubMiles = 20;
+        int bonusMiles = tiket/rubMiles;
+        System.out.println (bonusMiles);
+
     }
 }
