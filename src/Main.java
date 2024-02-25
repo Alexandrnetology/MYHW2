@@ -10,9 +10,9 @@ public class Main {
         // значения заведённых переменных. Ответ сохраняете в
         // новую переменную и выводите на экран
         int ticket = 13676;
-        int rubmile = 20;
-        int bonusmile = ticket/rubmile;
-        System.out.println (bonusmile);
+        int rubMile = 20;
+        int bonusMile = ticket / rubMile;
+        System.out.println(bonusMile);
 
     }
 }
